@@ -1,5 +1,5 @@
 ---
-title: Tony's Beans
+title: Tony's Bean Place
 type: products
 page: /products.html
 image: /img/products/jumbotron.jpg
